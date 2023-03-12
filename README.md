@@ -1,8 +1,8 @@
 # EarthquakeReportApp
--This project presents the report of earthquakes in Turkey to the user.
--I can use Springboot,lombok
--Input = Count of days , Between certain dates .
--Api = https://earthquake.usgs.gov/fdsnws/event/1/.
+- This project presents the report of earthquakes in Turkey to the user.
+- I can use Springboot,lombok
+- Input = Count of days , Between certain dates .
+- Api = https://earthquake.usgs.gov/fdsnws/event/1/.
 - Output: List of earthquakes. Country, Place
 of the earthquake, magnitude, date and time of the earthquake.
 
